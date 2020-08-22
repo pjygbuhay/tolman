@@ -1,0 +1,33 @@
+<!-- <img src="images\Tolmans\celso Sr1.jpg" alt="">
+        <img src="images\Tolmans\celso sr2.jpg" alt="">
+        <img src="images\Tolmans\gloria-dorothy.jpg" alt="">
+        <img src="images\Tolmans\gloria1.jpg" alt="">
+        <img src="images\Tolmans\gloria2.jpg" alt="">
+        <img src="images\Tolmans\gloria3.jpg" alt="">
+        <img src="images\Tolmans\tolmans.jpg" alt="">
+        <img src="images\Tolmans\cpt tolman.jpg" alt="">
+        <img src="images\Tolmans\cpt tolman1.jpg" alt="">
+        <img src="images\Tolmans\ygbuhay.jpg" alt="">
+        <img src="images\Tolmans\aunt vicky.jpg" alt="">
+      -->
+ <div class="single-img1"><img src="dorothy1.JPG"  alt=""></div>
+        <div class="single-img2"><img src="dorothy2.JPG" alt=""></div>
+        <div class="single-img3"><img src="dorothy3.JPG" alt=""></div>
+        <div class="single-img4"><img src="dorothy4.JPG" alt=""></div>
+
+ <!--
+    <button class="btn btn1">Thomas Daniel</button>
+    <button class="btn btn2">Rose Marie</button>
+    <button class="btn btn3">Victoria Jane</button>
+    <button class="btn btn4">Celso Mario</button>
+    <button class="btn btn5">"Patrick Joseph</button>
+    <button class="btn btn6">Dorothy Grace</button>
+  -->     
+   /*if(counter === 12){
+        counter = 0;
+    }
+    img.src = pics[counter]
+    counter = counter + 1;*/
+
+    /*var img = Document.querySelector("img");
+var counter = 1;*/

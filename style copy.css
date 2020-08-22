@@ -1,0 +1,86 @@
+
+h1 {
+    
+    font-weight: 200;
+    font-size: 70px;
+    text-transform: uppercase;
+    border-top: 5px solid;
+    text-align: left ;
+    margin: 0px;
+    padding: 0px;
+   
+}
+header {
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 0px 0%;
+
+
+}
+.nav-links {
+    list-style: none;
+ 
+}
+.nav-links li {
+    display: inline-block;
+    padding: 0px 15px;
+   
+  
+}
+.nav-links li a {
+    transition: all 0.3s ease 0s;
+    
+}
+.nav-links li a:hover {
+    transition: 0.3s;
+    background-color: blue;
+    color: white;
+    text-decoration: underline;
+}
+
+body {
+ /*background-color: bisque;
+ font-weight: 200;
+*/
+background: #C6FFDD;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f7797d, #FBD786, #C6FFDD);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f7797d, #FBD786, #C6FFDD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+.pictures {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.pictures img {
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 10vh;
+    width: 10vh;
+   align-items: center;
+   margin: 5px;
+   padding: 5px;
+  
+} 
+.pictures img{
+    transition: all 0.3s ease 0s;
+    z-index: 10;
+   
+}
+
+.pictures img :hover {
+    height: 400vh;
+    width: 300;
+
+}
+.video{
+    height: 500;
+    width: 500;
+}
+
