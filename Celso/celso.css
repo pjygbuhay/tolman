@@ -1,0 +1,50 @@
+h1 {
+    
+    font-weight: 200;
+    font-size: 60px;
+    text-transform: uppercase;
+    border-top: 5px solid;
+    text-align: left ;
+    margin: 0px;
+    padding: 0px;
+   
+}
+header {
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 0px 0%;
+
+
+}
+.nav-links {
+    list-style: none;
+    font-size: 1.0rem;
+    font-weight: bold;
+ 
+}
+.nav-links li {
+    display: inline-block;
+    padding: 0.20px 15px;
+   
+  
+}
+.nav-links li a {
+    transition: all 0.3s ease 0s;
+    
+}
+.nav-links li a:hover {
+    transition: 0.3s;
+    background-color: blue;
+    color: white;
+    text-decoration: underline;
+}
+
+body {
+ 
+background: #C6FFDD;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f7797d, #FBD786, #C6FFDD);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f7797d, #FBD786, #C6FFDD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
